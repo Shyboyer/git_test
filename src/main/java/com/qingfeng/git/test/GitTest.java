@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("master text!");
         System.out.println("hot fix test1!");
         System.out.println("push  test1!");
+        System.out.println("github update!");
     }
 }
